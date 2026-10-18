@@ -51,19 +51,6 @@ Essa versão é usada no Emulador Kawaks, porém você pode ajustar os nomes dos
 
 
 
-» **Skin - Kawaks Red**
-<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c87cce49-69f5-4065-818b-21444f62b771" />
-Essa skin é a própria skin do emulador Kawaks, porém com as cores secundárias vermelhas  combinando com a alavanca dpad 
-
-Para quem conhece o emulador Kawaks, as cores secundárias são da cor  laranja, eu adaptei as cores secundárias para vermelho e melhorei um pouco a qualidade dos icones
-
-» **Disponível em breve...**
-<img width="4200" height="2400" alt="Image" src="https://github.com/user-attachments/assets/930faa93-a9d4-4194-a044-21995ab956a7" />
-
-
-
-
-
 
 » **Skin - Kawaks Dark**
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/91adcfcf-6301-4862-b2ac-a995d3ad6152" />
